@@ -1,0 +1,10 @@
+elasticsearch:
+  address: ""
+  username: ""
+  password: ""
+
+gcs:
+  bucket: ""
+
+token:
+  secret: "secret"
